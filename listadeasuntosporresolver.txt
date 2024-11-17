@@ -1,0 +1,35 @@
+cambios por hacer.. pendientes
+
+1 - mejorar la lógica de la selección de preguntas al AZAR 
+y categoría al AZAR para que no de error al calcular el puntaje
+cuando el id de la dificultad es 0 y de categoría es 0 --> resuelto
+
+2 - al entrar con un jugador existente, que el puntaje
+no se sobrescriba si es que es menor al puntaje existente --> pendiente. se me ocurrió que se podría mejorar esto creando una columna en la tabla jugador que tenga puntaje Histórico, y con un trigger ir sumando el puntaje obtenido al puntaje histórico
+
+3 - que no se repitan las preguntas ya hechas --> pendiente
+
+4 - activar la foto de personaje --> resuelto :)
+
+5 - mejorar el Trigger que sube el personaje de nivel según el puntaje--> ya esta, pero solo hasta el nivel 3, falta hacer mas niveles. y que el subir de nivel se refleje en desbloquear ítems, sino no sirve de nada subir de nivel.
+
+6 - mejorar el diseño de la interfaz --> listo
+
+7 - crear una interfaz de administrador para borrar y actualizar usuarios --> pendiente (MAXIMA PRIORIDAD) porque es requisito del trabajo
+
+8 - mejorar los botones de la interfaz ranking --> pendiente
+
+9 - agregar mas personajes a la Tabla Personajes. con sus respectivas Fotos. --> Pendiente
+
+10 - agregar Ítems a la Tabla Ítem, para lograr ITEMS desbloqueables --> pendiente
+
+11 - Crear un Formulario de Jugador. Con el puntaje, las partidas jugadas, los ítems desbloqueados. --> pendiente
+
+12- darle una ultima revisión al código y sacar cosas que no se están usando, quitar comentarios innecesarios.
+
+
+
+
+
+
+
